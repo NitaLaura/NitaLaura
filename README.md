@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Laura Anita, mas pode me chamar de Nita
 
 - 📖Atualmente estou cursando Tecnologia em Sistemas para Internet no Instituto Federal Goiano. 
-- 🎓Também possuo Bacharel em Direito e pós graduação em Direito Ambiental.<img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="90px"> 
+- 🎓Também possuo Bacharel em Direito e pós graduação em Direito Ambiental.<img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="110px"> 
 - 📊Atualmente estou aprendendo sobre data & analytics.
 - 👩🏼‍💻Sou estagiária na Compass.UOL  
 - 📫Como chegar até mim: 
@@ -13,8 +13,10 @@
   </a>
 <div>
   <a href="https://github.com/NitaLaura">
-  <img height=180em" src="https://github-readme-stats.vercel.app/api?username=NitaLaura&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height=180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitaLaura&layout=compact&langs_count=16&theme=radical"/>
+    
+  <img width="41%" src="https://github-readme-stats.vercel.app/api?username=NitaLaura&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NitaLaura&layout=compact&langs_count=16&theme=radical"/>
+  
  </div>
  
  ##
