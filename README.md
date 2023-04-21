@@ -21,4 +21,4 @@
  
  ##
  
- <img alt="github-snake" src="https://github.com/AriHenrique/AriHenrique/blob/output/github-contribution-grid-snake-dark.svg" />
+ <img alt="github-snake" src="https://github.com/NitaLaura/NitaLaura/blob/output/github-contribution-grid-snake-dark.svg"/>
