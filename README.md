@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Laura Anita, mas pode me chamar de Nita
 
 - 📖Atualmente estou cursando Tecnologia em Sistemas para Internet no Instituto Federal Goiano. 
-- 🎓Também possuo Bacharel em Direito e pós graduação em Direito Ambiental.<img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="110px"> 
+- 🎓Também possuo Bacharel em Direito e pós graduação em Direito Ambiental.<img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="90px"> 
 - 📊Atualmente estou aprendendo sobre data & analytics.
 - 👩🏼‍💻Sou estagiária na Compass.UOL  
 - 📫Como chegar até mim: 
