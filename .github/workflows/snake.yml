@@ -1,4 +1,4 @@
-name: Snake
+name: snake
 
 on:
   # execute every 5 hours
