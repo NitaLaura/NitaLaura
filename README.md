@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Laura Anita, mas pode me chamar de Nita
 
-- 📖Atualmente estou cursando Tecnologia em Sistemas para Internet no Instituto Federal Goiano. <img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="110px" width="110px"> 
+- 📖Atualmente estou cursando Análise e Desenvolvimento de Sistemas. <img align="right" src="https://cdn.discordapp.com/attachments/762153500560850945/1098841105757380748/GIFPAL-20230421022114.gif" height="110px" width="110px"> 
 - 🎓Também possuo Bacharel em Direito e pós-graduação em Direito Ambiental.
 - 📊Estou aprendendo sobre Data & Analytics.
-- 👩🏼‍💻Sou Engenheira de Dados na Compass UOL.  
+- 👩🏼‍💻Sou Analista de Dados na Compass UOL.  
 - 📫Como chegar até mim: 
   <a href="mailto:laauraanitaa@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" height="20px">
